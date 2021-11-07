@@ -10,7 +10,7 @@
 🎓 &nbsp;Студент.
 
 
-<img alt="Night Coding" width="300" src="https://raw.githubusercontent.com/saintsplay/saintsplay/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width="300" src="https://raw.githubusercontent.com/saintsplay/saintsplay/master/assets/Night%20Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Стек технологий
 
