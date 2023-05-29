@@ -9,7 +9,7 @@
 > В основном работаю в Private репозиториях, пока не заню что опубликовать.
 
 ### &nbsp;Стек технологий
-<p align="left">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -21,13 +21,16 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/saintsplay">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saintsplay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+<p align="right">
+<a href="https://github.com/saintsplay">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saintsplay&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
