@@ -31,6 +31,6 @@
 </p>
 <p align="right">
   <a href="https://github.com/saintsplay">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintsplay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="=https://github-readme-stats.vercel.app/api/top-langs/?username=saintsplay&layout=compact=)&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
