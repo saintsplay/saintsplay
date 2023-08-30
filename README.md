@@ -21,11 +21,3 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/saintsplay">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saintsplay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
